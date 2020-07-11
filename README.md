@@ -1,1 +1,1 @@
-# Travel-Clust
+# 使用k-means聚类对旅行社客户进行分类
